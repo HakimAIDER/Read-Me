@@ -1,0 +1,183 @@
+[
+  {
+    "id": 1,
+    "titre": "Qu’est-ce que le PEE ?",
+    "categorie": "Définitions",
+    "contenu": "Le Plan d'Épargne Entreprise (PEE) permet aux salariés de se constituer une épargne avec l’aide de leur entreprise. Les sommes versées peuvent provenir de l’intéressement, de la participation, ou de versements volontaires.",
+    "tags": [
+      "PEE",
+      "plan",
+      "épargne salariale",
+      "entreprise"
+    ],
+    "sources": [
+      {
+        "titre": "Service-public.fr",
+        "url": "https://www.service-public.fr/particuliers/vosdroits/F2416"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titre": "Fiscalité du PEE",
+    "categorie": "Fiscalité",
+    "contenu": "Les plus-values réalisées dans le cadre du PEE sont exonérées d'impôt sur le revenu sous conditions de blocage des fonds pendant 5 ans.",
+    "tags": [
+      "fiscalité",
+      "exonération",
+      "PEE",
+      "impôt"
+    ],
+    "sources": [
+      {
+        "titre": "Service-public.fr",
+        "url": "https://www.service-public.fr/particuliers/vosdroits/F2416"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titre": "Qu’est-ce que le PERCO ?",
+    "categorie": "Définitions",
+    "contenu": "Le PERCO est un plan d’épargne pour la retraite collectif, proposé par l’employeur. Il permet aux salariés de se constituer une épargne en vue de la retraite.",
+    "tags": [
+      "PERCO",
+      "plan retraite",
+      "épargne collective"
+    ],
+    "sources": [
+      {
+        "titre": "URSSAF",
+        "url": "https://www.urssaf.fr"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titre": "Différences entre PEE et PERCO",
+    "categorie": "Comparatif",
+    "contenu": "Le PEE est une épargne à moyen terme (5 ans) alors que le PERCO vise la retraite. Le traitement fiscal et les cas de déblocage sont différents.",
+    "tags": [
+      "comparatif",
+      "PEE",
+      "PERCO"
+    ],
+    "sources": [
+      {
+        "titre": "Service-public.fr",
+        "url": "https://www.service-public.fr"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "titre": "Cas de déblocage anticipé du PEE",
+    "categorie": "Définitions",
+    "contenu": "Il existe plusieurs cas permettant de débloquer son PEE avant 5 ans : mariage, naissance, divorce, achat de résidence principale, etc.",
+    "tags": [
+      "déblocage",
+      "PEE",
+      "conditions",
+      "anticipé"
+    ],
+    "sources": [
+      {
+        "titre": "Legifrance",
+        "url": "https://www.legifrance.gouv.fr"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "titre": "Intéressement : définition et fonctionnement",
+    "categorie": "Définitions",
+    "contenu": "L'intéressement est un dispositif facultatif qui permet aux salariés de recevoir une prime liée aux performances de l’entreprise. Il est soumis à condition d’un accord entre employeur et représentants du personnel.",
+    "tags": [
+      "intéressement",
+      "prime",
+      "performance",
+      "entreprise"
+    ],
+    "sources": [
+      {
+        "titre": "Service-public.fr",
+        "url": "https://www.service-public.fr/particuliers/vosdroits/F1385"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "titre": "Participation aux bénéfices",
+    "categorie": "Définitions",
+    "contenu": "La participation est un dispositif d'épargne obligatoire dans les entreprises de plus de 50 salariés, redistribuant une partie des bénéfices aux salariés.",
+    "tags": [
+      "participation",
+      "bénéfices",
+      "entreprise",
+      "épargne"
+    ],
+    "sources": [
+      {
+        "titre": "Service-public.fr",
+        "url": "https://www.service-public.fr/particuliers/vosdroits/F1386"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "titre": "PER individuel (PERin)",
+    "categorie": "Définitions",
+    "contenu": "Le PER individuel (PERin) est un produit d'épargne retraite ouvert à tous, sans lien avec l'entreprise, permettant une sortie en capital ou en rente à la retraite.",
+    "tags": [
+      "PER",
+      "PERin",
+      "retraite",
+      "capital",
+      "rente"
+    ],
+    "sources": [
+      {
+        "titre": "Service-public.fr",
+        "url": "https://www.service-public.fr/particuliers/vosdroits/F34151"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "titre": "L’abondement de l’employeur",
+    "categorie": "Définitions",
+    "contenu": "L'abondement est la contribution financière que l’employeur peut verser en complément de l’épargne du salarié dans le PEE ou le PERCO, dans les limites fixées par la loi.",
+    "tags": [
+      "abondement",
+      "employeur",
+      "épargne",
+      "PEE",
+      "PERCO"
+    ],
+    "sources": [
+      {
+        "titre": "URSSAF",
+        "url": "https://www.urssaf.fr"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "titre": "Sortie du PER : capital ou rente ?",
+    "categorie": "Fiscalité",
+    "contenu": "À la retraite, les sommes épargnées dans un PER peuvent être perçues en capital, en rente viagère, ou un mélange des deux, avec des conséquences fiscales distinctes.",
+    "tags": [
+      "PER",
+      "sortie",
+      "capital",
+      "rente",
+      "fiscalité"
+    ],
+    "sources": [
+      {
+        "titre": "Service-public.fr",
+        "url": "https://www.service-public.fr/particuliers/vosdroits/F34151"
+      }
+    ]
+  }
+]
